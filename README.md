@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Panigrahi</h1> 
   <img src="DevSecOps.png" alt="DevSecOps Enthusiast Banner" 
-         style="width: 100%; max-height: 400px; height: auto; 
+         style="width: 100%; max-height: 250px; height: auto; 
                 transition: transform 0.5s ease-in-out;" 
          onmouseover="this.style.transform='scale(1.05)';" 
          onmouseout="this.style.transform='scale(1)';">
