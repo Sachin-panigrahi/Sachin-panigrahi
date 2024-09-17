@@ -18,20 +18,30 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
-🌐 **Aspiring DevSecOps Engineer | Securing the Future of DevOps**
-- 🔒 **Building a Secure Tomorrow:** Focused on integrating security at every stage of the DevOps lifecycle.
-  
-- 🛠️ **Passionate Learner:** Exploring cutting-edge tools like SonarQube, Trivy, and Kubernetes to automate and enhance security in CI/CD pipelines.
+<h3 align="center" style="color: #4A90E2;">🌐 **Aspiring DevSecOps Engineer** | Securing the Future of DevOps</h3>
 
-- 🌱 **Constant Growth:** Embracing the DevSecOps mindset to blend development, operations, and security seamlessly.
+<p align="center">
+  <img src="https://img.shields.io/badge/Building_a_Secure_Tomorrow-🔒-blue?style=flat&logo=security" alt="Building a Secure Tomorrow" />
+  <img src="https://img.shields.io/badge/Passionate_Learner-🛠️-orange?style=flat&logo=book" alt="Passionate Learner" />
+  <img src="https://img.shields.io/badge/Constant_Growth-🌱-green?style=flat&logo=growth" alt="Constant Growth" />
+  <img src="https://img.shields.io/badge/Innovation_Driven-🚀-purple?style=flat&logo=rocket" alt="Innovation Driven" />
+  <img src="https://img.shields.io/badge/Collaborative_Spirit-🤝-pink?style=flat&logo=people" alt="Collaborative Spirit" />
+</p>
 
-- 🚀 **Innovation-Driven:** Dedicated to creating robust, scalable, and secure cloud-native applications.
+<div align="center" style="max-width: 600px; margin: 20px auto; padding: 10px; background-color: #f0f8ff; border-radius: 10px;">
+  <ul style="list-style-type: none; padding: 0; text-align: left;">
+    <li>🔒 **Building a Secure Tomorrow:** Focused on integrating security at every stage of the DevOps lifecycle.</li>
+    <li>🛠️ **Passionate Learner:** Exploring cutting-edge tools like SonarQube, Trivy, and Kubernetes to automate and enhance security in CI/CD pipelines.</li>
+    <li>🌱 **Constant Growth:** Embracing the DevSecOps mindset to blend development, operations, and security seamlessly.</li>
+    <li>🚀 **Innovation-Driven:** Dedicated to creating robust, scalable, and secure cloud-native applications.</li>
+    <li>🤝 **Collaborative Spirit:** Excited about connecting with like-minded developers and security enthusiasts to share knowledge and ideas.</li>
+    <li>👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/Sachin-panigrahi)</li>
+    <li>💬 Ask me about **DevOps**</li>
+    <li>📫 Reach me at: **Sachinpanigrahi25@gmail.com**</li>
+    <li>⚡ Fun fact: **"DevOps by day, securing it with DevSecOps by night – bridging the gap between speed and security!"**</li>
+  </ul>
+</div>
 
-- 🤝 **Collaborative Spirit:** Excited about connecting with like-minded developers and security enthusiasts to share knowledge and ideas.
-  
-- 👨‍💻 All of my projects are available at [https://github.com/Sachin-panigrahi](https://github.com/Sachin-panigrahi)
-
-- 📫 How to reach me **Sachinpanigrahi25@gmail.com**  
 
 <hr style="border: none; height: 2px; background-color: #eee; margin: 20px 0;">
 
