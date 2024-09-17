@@ -17,9 +17,10 @@ jobs:
 
       # Step 2: Generate the snake GIF and SVG
       - name: Generate Snake
-        uses: Platane/snk@v2.1.0
+        uses: Platane/snk@v2.1.0  # Update to the latest stable version if available
         with:
-          github_user_name: Sachin-panigrahi # Replace with your GitHub username
+          github_user_name: Sachin-panigrahi  # Replace with your GitHub username
+          # The correct outputs for the snake images
           outputs: |
             gif_url=dist/github-contribution-grid-snake.gif
             svg_url=dist/github-contribution-grid-snake.svg
@@ -27,8 +28,8 @@ jobs:
       # Step 3: Commit and push changes to the master branch
       - name: Commit and Push Changes
         run: |
-          git config --local user.email "sachinpanigrahi25@gmail.com" # Replace with your email
-          git config --local user.name "Sachin-panigrahi"         # Replace with your name
+          git config --local user.email "sachinpanigrahi25@gmail.com"  # Replace with your email
+          git config --local user.name "Sachin-panigrahi"          # Replace with your name
           git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
           git commit -m "Update contribution snake"
           git push origin master
