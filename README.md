@@ -29,8 +29,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachin-panigrahi&show_icons=true&locale=en" alt="sachin-panigrahi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-panigrahi&" alt="sachin-panigrahi" /></p>
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Sachin-panigrahi&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 My Github Contributions
 ![Snake animation](https://github.com/Sachin-panigrahi/Sachin-panigrahi/blob/output/github-contribution-grid-snake.svg)
