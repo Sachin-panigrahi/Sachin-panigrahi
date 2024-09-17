@@ -1,4 +1,34 @@
 <h1 align="center">Hi 👋, I'm Sachin Panigrahi</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .banner {
+            width: 100%;  /* Full width banner */
+            max-height: 400px;  /* Set a max height for the banner */
+            overflow: hidden;
+            position: relative;
+        }
+        .banner img {
+            width: 100%;
+            height: auto;
+            transition: transform 0.5s ease-in-out;
+        }
+        .banner:hover img {
+            transform: scale(1.05);  /* Zoom in on hover */
+        }
+    </style>
+    <title>DevSecOps Banner</title>
+</head>
+<body>
+    <div class="banner">
+        <img src="DevSecOps.png" alt="DevSecOps Enthusiast Banner">
+    </div>
+</body>
+</html>
+
 <h3 align="center">Enthusiastic DevSecOps newcomer from India, eager to learn, grow, and secure the future! Passionate about automation, CI/CD, and cloud technologies, I'm ready to contribute, tackle new challenges, and fuse speed with security.</h3>
 
 - 🌱 I’m currently learning **DevSecOps**
