@@ -7,7 +7,9 @@
 <h3 align="center">Enthusiastic DevSecOps newcomer from India, eager to learn, grow, and secure the future! Passionate about automation, CI/CD, and cloud technologies, I'm ready to contribute, tackle new challenges, and fuse speed with security.</h3>
 
 - 🌱 I’m currently learning **DevSecOps**
-
+  
+- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+  
 - 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **Sachinpanigrahi25@gmail.com**
@@ -28,6 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-panigrahi&" alt="sachin-panigrahi" /></p>
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sachin-panigrahi&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-![Snake animation](https://raw.githubusercontent.com/Sachin-panigrahi/Sachin-panigrahi/output/github-contribution-grid-snake-dark.svg)
+My Github Contributions
+![Snake animation](https://github.com/Sachin-panigrahi/Sachin-panigrahi/blob/output/github-contribution-grid-snake.svg)
