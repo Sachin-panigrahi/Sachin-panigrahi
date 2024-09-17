@@ -17,10 +17,9 @@ jobs:
 
       # Step 2: Generate the snake GIF and SVG
       - name: Generate Snake
-        uses: Platane/snk@v2.1.0  # Update to the latest stable version if available
+        uses: Platane/snk@v2.1.0  # Make sure to use a stable version
         with:
           github_user_name: Sachin-panigrahi  # Replace with your GitHub username
-          # The correct outputs for the snake images
           outputs: |
             gif_url=dist/github-contribution-grid-snake.gif
             svg_url=dist/github-contribution-grid-snake.svg
