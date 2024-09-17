@@ -41,10 +41,10 @@
     </div>
   </div>
   <div style="flex: 0 0 auto;">
-    <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
+  <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
   </div>
 </div>
-<hr style="border: none; height: 2px; background-color: #eee; margin: 20px 0;">
+<!-- <hr style="border: none; height: 2px; background-color: #eee; margin: 20px 0;"> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sachin-p-565557317/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
