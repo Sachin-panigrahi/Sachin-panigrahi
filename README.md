@@ -34,6 +34,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sachin-panigrahi&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-![Contribution Snake](https://Sachin-panigrahi.github.io/Sachin-panigrahi/dist/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Sachin-panigrahi/Sachin-panigrahi/blob/output/github-contribution-grid-snake.gif)
+
+
 
 
