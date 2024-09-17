@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Panigrahi</h1> 
-  <img src="DevSecOps.png" alt="DevSecOps Enthusiast Banner" 
+  <img src="DevSecOps_1024x500.png" alt="DevSecOps Enthusiast Banner" 
          style="width: 100%; max-height: 250px; height: auto; 
                 transition: transform 0.5s ease-in-out;" 
          onmouseover="this.style.transform='scale(1.05)';" 
