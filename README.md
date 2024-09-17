@@ -5,7 +5,7 @@
          onmouseover="this.style.transform='scale(1.05)';" 
          onmouseout="this.style.transform='scale(1)';">
 <h3 align="center">Enthusiastic DevSecOps newcomer from India, eager to learn, grow, and secure the future! Passionate about automation, CI/CD, and cloud technologies, I'm ready to contribute, tackle new challenges, and fuse speed with security.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **DevSecOps**
   
