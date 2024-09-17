@@ -35,7 +35,7 @@
 
 <hr style="border: none; height: 2px; background-color: #eee; margin: 20px 0;">
 
-### 💬 Ask me about **DevOps**
+### 💬 Ask me about *DevOps*
 
 ### ⚡ Fun fact:  
 **"DevOps by day, securing it with DevSecOps by night – bridging the gap between speed and security!"**
