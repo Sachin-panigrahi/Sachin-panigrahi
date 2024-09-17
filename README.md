@@ -11,7 +11,12 @@
 <h3 align="center">Enthusiastic DevSecOps newcomer from India, eager to learn, grow, and secure the future! Passionate about automation, CI/CD, and cloud technologies, I'm ready to contribute, tackle new challenges, and fuse speed with security.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **DevSecOps**
+🌐 **Aspiring DevSecOps Engineer | Securing the Future of DevOps**
+- 🔒 **Building a Secure Tomorrow:** Focused on integrating security at every stage of the DevOps lifecycle.
+- 🛠️ **Passionate Learner:** Exploring cutting-edge tools like SonarQube, Trivy, and Kubernetes to automate and enhance security in CI/CD pipelines.
+- 🌱 **Constant Growth:** Embracing the DevSecOps mindset to blend development, operations, and security seamlessly.
+- 🚀 **Innovation-Driven:** Dedicated to creating robust, scalable, and secure cloud-native applications.
+- 🤝 **Collaborative Spirit:** Excited about connecting with like-minded developers and security enthusiasts to share knowledge and ideas.
   
 - 👨‍💻 All of my projects are available at [https://github.com/Sachin-panigrahi](https://github.com/Sachin-panigrahi)
   
