@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sachin Panigrahi</h1> 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sachin+Panigrahi;&center=true&size=30">
+  </a>
+</h1>
   <img src="DevSecOps_1024x400.png" alt="DevSecOps Enthusiast Banner" 
          style="width: 100%; max-height: 250px; height: auto; 
                 transition: transform 0.5s ease-in-out;" 
