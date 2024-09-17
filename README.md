@@ -5,10 +5,11 @@
          onmouseover="this.style.transform='scale(1.05)';" 
          onmouseout="this.style.transform='scale(1)';">
 <h3 align="center">Enthusiastic DevSecOps newcomer from India, eager to learn, grow, and secure the future! Passionate about automation, CI/CD, and cloud technologies, I'm ready to contribute, tackle new challenges, and fuse speed with security.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **DevSecOps**
   
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+- 👨‍💻 All of my projects are available at [https://github.com/Sachin-panigrahi](https://github.com/Sachin-panigrahi)
   
 - 💬 Ask me about **DevOps**
 
@@ -33,5 +34,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sachin-panigrahi&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-## Ingestion...
-![Snake animation](https://raw.githubusercontent.com/Sachin-panigrahi/Sachin-panigrahi/output/github-contribution-grid-snake-dark.svg)
