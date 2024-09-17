@@ -69,7 +69,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-panigrahi&show_icons=true&locale=en&layout=compact" alt="sachin-panigrahi" /></p>
 
-<hr style="border: none; height: 2px; background-color: #eee; margin: 20px 0;">
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachin-panigrahi&show_icons=true&locale=en" alt="sachin-panigrahi" /></p>
