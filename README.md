@@ -57,11 +57,9 @@
   <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/hashicorp/terraform-icon.svg" alt="Terraform" width="40" height="40"/></a>
-  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"><img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="Argo CD" width="40" height="40"/></a>
+ 
   <a href="https://helm.sh/" target="_blank"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/></a>
-  <a href="https://www.sonarqube.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="SonarQube" width="40" height="40"/></a>
-  <a href="https://owasp.org/www/projects/dependency-check/" target="_blank"><img src="https://owasp.org/www-project-dependency-check/images/DependencyCheck-Logo.png" alt="OWASP Dependency-Check" width="40" height="40"/></a>
+ 
   <a href="https://trivy.dev/" target="_blank"><img src="https://trivy.dev/images/logo.png" alt="Trivy" width="40" height="40"/></a>
   <a href="https://owasp.org/www-project-zap/" target="_blank"><img src="https://owasp.org/www-project-zap/images/zap-icon.png" alt="OWASP ZAP" width="40" height="40"/></a>
 </p>
