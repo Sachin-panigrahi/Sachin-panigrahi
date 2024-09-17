@@ -20,8 +20,9 @@ jobs:
         uses: Platane/snk@v2.1.0
         with:
           github_user_name: Sachin-panigrahi # Replace with your GitHub username
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            gif_url=dist/github-contribution-grid-snake.gif
+            svg_url=dist/github-contribution-grid-snake.svg
 
       # Step 3: Commit and push changes to the master branch
       - name: Commit and Push Changes
@@ -31,4 +32,3 @@ jobs:
           git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
           git commit -m "Update contribution snake"
           git push origin master
-
