@@ -96,8 +96,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sachin-panigrahi&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### Ingesting...
-![snake gif](https://github.com/Sachin-panigrahi/Sachin-panigrahi/blob/output/github-contribution-grid-snake.gif)
+<h2>🌱🚀 Evolution in Code: Growing and Developing with Every Commit</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin-panigrahi/Sachin-panigrahi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin-panigrahi/Sachin-panigrahi/output/github-contribution-grid-snake-light.svg">
+  <img style="display: block; margin: 0 auto;" alt="GitHub contribution grid animation depicting code evolution" src="https://raw.githubusercontent.com/Sachin-panigrahi/Sachin-panigrahi/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 
